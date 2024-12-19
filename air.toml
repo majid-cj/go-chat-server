@@ -1,0 +1,22 @@
+root = "." 
+tmp_dir = "tmp"
+
+[build]
+cmd = "go build -o ./tmp ./main.go"
+bin = "tmp"
+log = "air_errors.log"
+include_ext = ["go", "yaml"]
+exclude_dir = ["tmp", "playground", "uploads"]
+delay = 1000
+
+[log]
+time = true
+
+[color]
+main = "magenta"
+watcher = "cyan"
+build = "yellow"
+runner = "green"
+
+[misc]
+clean_on_exit = true

@@ -1,0 +1,26 @@
+# validation error
+invalid_email: 'صيغة بريد إلكتروني غير صحيحة'
+invalid_password: 'صيغة كلمة السر غير صحيحة'
+invalid_source: 'مصدر غير صالح'
+invalid_type: 'نوع غير صالح'
+error_parsing_data: 'خطأ في تحليل البيانات'
+invalid_nickname: 'صيغة اسم غير صحيحة'
+invalid_display_name: 'صيغة العرض غير صحيحة'
+error_size_error: 'أقصى حجم للصورة هو 2 ميغا بايت'
+not_supported_type: 'نوع الصورة غير معتمد'
+
+# authentication error
+email_taken: 'الايميل أخذ مسبقا'
+nickname_taken: 'سبق و استعمل هذا الاسم'
+email_password_wrong: 'أدخل بيانات صالحة'
+unauthorized_access: 'هناك خطأ ما !!'
+token_expired: 'انتهت صلاحية الرمز'
+no_email_account: 'لم يتم ربط أي حساب بهذا البريد الإلكتروني'
+password_mismatch: 'كلمة المرور غير متطابقة'
+active_login: 'تسجيل دخول نشط'
+
+# general error
+general_error: 'هناك خطأ ما !!'
+error_retrieve: 'لا يمكن استرداد البيانات'
+member_not_found: 'مستخدم غير موجود'
+profile_not_found: 'الملف غير موجود'

@@ -1,0 +1,26 @@
+# validation error
+invalid_email: 'invalid email format'
+invalid_password: 'invalid password format'
+invalid_source: 'invalid source'
+invalid_type: 'invalid type'
+error_parsing_data: 'error parsing data'
+invalid_nickname: 'invalid nickname format'
+invalid_display_name: 'invalid display name'
+error_size_error: 'max image size is 2MB'
+not_supported_type: 'not supported image type'
+
+# authentication error
+email_taken: 'this email is already taken'
+nickname_taken: 'this nickname is already taken'
+email_password_wrong: 'enter valid credentials'
+unauthorized_access: 'something went wrong !!'
+token_expired: 'token expired'
+no_email_account: 'no account is associated with this email'
+password_mismatch: 'password mismatch'
+active_login: 'active login'
+
+# general error
+general_error: 'something went wrong !!'
+error_retrieve: 'cloud not retrieve data'
+member_not_found: 'member not found'
+profile_not_found: 'profile not found'

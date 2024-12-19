@@ -1,0 +1,6 @@
+Hello {{.ReceiverName}}
+welcome to GO Chat Server App 
+and this is your verification code {{.ReceiverCode}}
+don't share with anyone !
+
+you Email: {{.ReceiverMail}}

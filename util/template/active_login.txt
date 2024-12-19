@@ -1,0 +1,7 @@
+Hello {{.ReceiverName}}
+someone tried to sign in into your account from different device .
+at {{.LoginTime}}
+ip {{.IPAddress}}
+device {{.DeviceInfo}}
+
+your Email: {{.ReceiverMail}}
